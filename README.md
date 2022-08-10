@@ -1,2 +1,2 @@
 # Try-Hack-Me
-Write ups for all successfully completed Try Hack Me rooms, boxes, and tutuorials
+Learning Path Completion Certificates & Write ups for successfully completed Try Hack Me rooms and tutuorials 
